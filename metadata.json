@@ -1,0 +1,8 @@
+{
+  "name": "Copy of BUILD TEST The Australian Blink-182 Show FINAL",
+  "description": "The ultimate Australian Blink-182 tribute band website featuring tour dates, high-energy media, and an AI-powered punk lyric generator.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
